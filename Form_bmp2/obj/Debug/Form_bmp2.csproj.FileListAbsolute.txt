@@ -1,0 +1,11 @@
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\bin\Debug\Form_bmp2.exe.config
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\bin\Debug\Form_bmp2.exe
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\bin\Debug\Form_bmp2.pdb
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.csproj.AssemblyReference.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.Form1.resources
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.Properties.Resources.resources
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.exe
+C:\Users\win7\Desktop\vc2022\Form_bmp2\Form_bmp2\obj\Debug\Form_bmp2.pdb

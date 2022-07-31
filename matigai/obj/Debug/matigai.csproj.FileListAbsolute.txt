@@ -1,0 +1,13 @@
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.csproj.AssemblyReference.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.csproj.SuggestedBindingRedirects.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.Form1.resources
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.Properties.Resources.resources
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\bin\Debug\matigai.exe.config
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\bin\Debug\matigai.exe
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\bin\Debug\matigai.pdb
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.exe
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.pdb
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.Form2.resources
+C:\Users\win7\Desktop\vc2022\Form_bmp2\matigai\obj\Debug\matigai.Itemform.resources
